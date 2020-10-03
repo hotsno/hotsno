@@ -6,7 +6,7 @@
   </a><br>
 </p>
 ‎<p align="center">
-  ![hotsno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hotsno&show_icons=true&theme=tokyonight)
+  ![akulakovsky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akulakovsky&show_icons=true&theme=tokyonight)
 </p>
 <h1 style="text-align: center;" align="center"> Socials </h1> <br>
 <p align="center">
