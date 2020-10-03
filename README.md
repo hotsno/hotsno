@@ -11,5 +11,5 @@
 </p>
 <h1 style="text-align: center;" align="center"> Socials </h1> <br>
 <p align="center">
-  <b>Discord:</b> hotsno#6969
+  <strong>Discord:</strong> hotsno#6969
 </p>
