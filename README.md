@@ -5,5 +5,5 @@
 </p>
 <h1 style="text-align: center;" align="center"> Socials </h1> <br>
 <p align="center">
-  <strong><a href="discord.com/users/707743097488146524">Discord:</a></strong> hotsno#0013
+  <strong><a href="https://discord.com/users/707743097488146524">Discord:</a></strong> hotsno#0013
 </p>
