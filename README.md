@@ -10,5 +10,7 @@
   <strong>Discord:</strong> <a href="https://discord.com/users/707743097488146524">hotsno#0013</a>
 </p>
 <p align="center">
-  <img src="https://discordapp.com/api/guilds/275459310765735937/widget.png?style=banner2" alt="Discord Banner 2" ref="https://discord.gg/Kj3h2hcKdb"/>
+  <a href="https://discord.gg/Kj3h2hcKdb">
+    <img src="https://discordapp.com/api/guilds/275459310765735937/widget.png?style=banner2" alt="Discord Banner 2" href="https://discord.gg/Kj3h2hcKdb"/>
+  </a>
 </p>
