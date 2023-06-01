@@ -17,6 +17,6 @@
     ~~~
   </samp></p>
   </br>
-  <a href="https://anilist.co/anime/98444"><img src="https://user-images.githubusercontent.com/71658949/211259604-08cd7dcd-c825-4ceb-b7f0-fb8c8ae6516a.png" width="60px"></a>
+  <a href="https://anilist.co/anime/98444"><img src="https://github.com/hotsno/hotsno/assets/71658949/4dae87da-0278-4e79-8ca7-470cb4f1b755" width="70px"></a>
   <p><sub><samp><em> watch yuru camp </em></samp></sub></p>
 </div>
