@@ -1,5 +1,4 @@
 <div align="center">
-  <h3><samp><em> hi. </em></samp></h3>
   <p><samp>
     currently learning:</br>
     [ rust ]</br>
