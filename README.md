@@ -13,11 +13,5 @@
     todo:</br>
     [ think of project using rust ]</br>
     </br>
-    ~~~
   </samp></p>
-  </br>
-  
-  [<img src="https://github.com/hotsno/hotsno/assets/71658949/4dae87da-0278-4e79-8ca7-470cb4f1b755" width="70px">](https://anilist.co/anime/98444)
-  
-  <p><sub><samp><em> watch yuru camp </em></samp></sub></p>
 </div>
