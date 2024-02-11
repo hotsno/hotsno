@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://i.imgur.com/c9t8cLG.gif" width="280"/>
   </br>
-  <img src="https://status-svg.vercel.app/api/707743097488146524" width="330"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://status-svg.vercel.app/api/707743097488146524">
+    <img src="https://status-svg.vercel.app/api/707743097488146524?lightMode=true" width="330">
+  </picture>
 </div>
