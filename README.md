@@ -9,3 +9,5 @@
     </picture>
   </a>
 </div>
+
+![Discord Presence](https://lanyard.cnrad.dev/api/974204806480687114)
