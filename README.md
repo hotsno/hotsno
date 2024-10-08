@@ -9,8 +9,3 @@
     </picture>
   </a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/974204806480687114">
-  <img src="https://lanyard.cnrad.dev/api/974204806480687114">
-</picture>
