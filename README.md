@@ -3,7 +3,7 @@
   <br>
   <a href="https://github.com/hotsno/status-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://status-svg.vercel.app/api/707743097488146524">
+      <source media="(prefers-color-scheme: dark)" srcset="https://status-svg.vercel.app/api/974204806480687114">
       <img src="https://status-svg.vercel.app/api/974204806480687114?lightMode=true" width="330">
     </picture>
   </a>
