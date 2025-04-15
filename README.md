@@ -1,5 +1,3 @@
 <div align="center">
-  <picture>
-    <img src="dogesmile.svg">
-  </picture>
+  <img src="dogesmile.svg" height="200" width="200">
 </div>
